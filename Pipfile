@@ -10,8 +10,10 @@ plotly = ">=5.15.0"
 pandas = "*"
 streamlit = "*"
 plotly-express = "*"
+nbformat = "*"
 
 [dev-packages]
+ipykernel = "*"
 
 [requires]
 python_version = "3.12"
