@@ -21,6 +21,9 @@ Language and packages used
 - Pandas
 - Jupyter Notebook (for initial EDA)
 
+Follow this link to view the app on render.com: https://vehicle-sales-visualization.onrender.com/
+Repository on Github: https://github.com/asherchristoph/Sprint-4-Project
+
 To run this app locally, follow the steps below:
 1. Clone the repository:
    ```bash
@@ -32,3 +35,4 @@ To run this app locally, follow the steps below:
 3 Run the Streamlit app:
     streamlit run app.py
 4. Open browser to the displayed localhost link.
+
