@@ -32,4 +32,3 @@ To run this app locally, follow the steps below:
 3 Run the Streamlit app:
     streamlit run app.py
 4. Open browser to the displayed localhost link.
-
